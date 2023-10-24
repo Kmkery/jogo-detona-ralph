@@ -2,7 +2,9 @@
 
 Um simples jogo construído em HTML, CSS e Javascript puros.
 
-Acerte o inimigo (Ralph) a maior quantidade de vezes possível em um intervalo de tempo pré-determinado e tentativas limitadas. Você pode pausar o jogo, retomar, encerrar e reiniciar se quiser.
+Acerte o inimigo (Ralph) a maior quantidade de vezes possível em um intervalo de tempo pré-determinado e tentativas limitadas. Você pode pausar o jogo, retomar, encerrar e reiniciar se quiser. 
+
+_**Para ver o jogo, basta clicar [aqui](https://kmkery.github.io/jogo-detona-ralph/)!**_
 
 Cada acerto gera um ponto que pode ser visualizado em tempo real no menu superior e o total de acertos ao final do jogo.
 Cada erro decrementa o contador de vidas, que ao zerar encerra imediatamente o jogo e exibe seu score.
@@ -14,7 +16,6 @@ O jogo se adapta bem a diferentes tamanhos de tela (dimensões mínimas: altura 
 ![tamanhos de tela](./mosaico.png)
  
 </div>
-
 
 
 ## Configurações
